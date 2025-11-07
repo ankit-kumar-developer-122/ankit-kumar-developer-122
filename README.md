@@ -11,7 +11,7 @@
 
 </div>
 
-## 📌 About Me
+## 📌 About Me.
 
 <div align="center">
 <div style="background: #1a1b27; padding: 25px; border-radius: 15px; box-shadow: 0 8px 25px rgba(240,219,79,0.15); max-width: 800px; margin: 0 auto;">
