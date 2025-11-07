@@ -13,14 +13,28 @@
 
 ## 📌 About Me
 
+<div align="center">
+<div style="background: #1a1b27; padding: 25px; border-radius: 15px; box-shadow: 0 8px 25px rgba(240,219,79,0.15); max-width: 800px; margin: 0 auto;">
+
 > Passionate full-stack developer and data analyst, combining technical expertise with analytical thinking to build impactful solutions. Currently focused on web development, mobile apps, and data visualization projects.
+
+<div style="text-align: left; display: inline-block;">
 
 - 📍 **Location**: Kolsimri, Lohardaga, Jharkhand, India
 - 🎓 **Education**: B.Tech at RCET Bhilai (CGPA: 7.7)
 - 🌟 **Interests**: Full-Stack Development, Data Analytics, Mobile Development
 - 🔭 **Currently Working On**: Advanced Data Analytics Dashboards
 
+</div>
+</div>
+</div>
+
 ## 🎓 Education
+
+<div align="center">
+<div style="background: #1a1b27; padding: 25px; border-radius: 15px; box-shadow: 0 8px 25px rgba(240,219,79,0.15); max-width: 800px; margin: 0 auto;">
+
+<div style="text-align: left; display: inline-block;">
 
 - 🏛️ **Rungta College of Engineering and Technology R1, Bhilai** (B.Tech.) — 2027
   - CGPA: 7.7
@@ -31,14 +45,23 @@
 - 🏫 **St. Charles High School, Kuru, Lohardaga, Jharkhand** — Matriculation — 2020
   - Percentage: 90.6%
 
+</div>
+</div>
+</div>
+
 ## 💻 Projects That Matter
+
+<div align="center">
+<div style="background: #1a1b27; padding: 25px; border-radius: 15px; box-shadow: 0 8px 25px rgba(240,219,79,0.15); max-width: 800px; margin: 0 auto;">
 
 ### 📢 Centralized Digital Notice Board
 **Smart Campus Communication System**
 
-<img src="https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Node.js-16-339933?style=flat-square&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/UI/UX-Design-FF69B4?style=flat-square&logo=figma&logoColor=white" />
+<div style="margin: 15px 0;">
+  <img src="https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-16-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/UI/UX-Design-FF69B4?style=for-the-badge&logo=figma&logoColor=white" />
+</div>
 
 **Streamlined campus notifications with React.js**
 <details>
@@ -54,9 +77,11 @@
 ### 🔒 Sentinel-X: Chrome Reporting System
 **AI-Powered Security System**
 
-<img src="https://img.shields.io/badge/Python-3.11-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenCV-4.8-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/Telegram-Bot-26A5E4?style=flat-square&logo=telegram&logoColor=white" />
+<div style="margin: 15px 0;">
+  <img src="https://img.shields.io/badge/Python-3.11-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-4.8-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Telegram-Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+</div>
 
 **Real-time threat detection and reporting system**
 <details>
@@ -72,9 +97,14 @@
 ### 🗳️ E-Voting System
 **Secure Digital Voting Platform**
 
-<img src="https://img.shields.io/badge/Web-Development-orange?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/Security-Protocols-red?style=flat-square&logo=security&logoColor=white" />
-<img src="https://img.shields.io/badge/Database-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<div style="margin: 15px 0;">
+  <img src="https://img.shields.io/badge/Web-Development-orange?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Security-Protocols-red?style=for-the-badge&logo=security&logoColor=white" />
+  <img src="https://img.shields.io/badge/Database-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</div>
+
+</div>
+</div>
 
 **Enabling secure remote voting capabilities**
 <details>
@@ -95,64 +125,67 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=1000&color=F0DB4F&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=100&lines=Technical+Skills;Crafting+Digital+Solutions;With+Modern+Technologies" alt="Skills Animation">
 
 ### 👨‍💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<div style="background: #1a1b27; padding: 20px; border-radius: 10px; box-shadow: 0 8px 16px rgba(0,0,0,0.4);">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,kotlin,c,javascript&theme=dark&perline=6" alt="Programming Languages" />
+</div>
 
 ### 📊 Data Science & Analytics
-![Python](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+<div style="background: #1a1b27; padding: 20px; border-radius: 10px; box-shadow: 0 8px 16px rgba(0,0,0,0.4);">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,r&theme=dark&perline=6" alt="ML Tools" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/pandas/white" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/pandas/black" />
+    <img alt="Pandas" height="48" width="48" src="https://cdn.simpleicons.org/pandas" style="margin: 8px;" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/numpy/white" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/numpy/black" />
+    <img alt="NumPy" height="48" width="48" src="https://cdn.simpleicons.org/numpy" style="margin: 8px;" />
+  </picture>
+  <picture>
+    <img alt="Power BI" height="48" width="48" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" style="margin: 8px; background: white; border-radius: 8px; padding: 4px;" />
+  </picture>
+</div>
 
 ### 💾 Databases & Cloud
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+<div style="background: #1a1b27; padding: 20px; border-radius: 10px; box-shadow: 0 8px 16px rgba(0,0,0,0.4);">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,aws,gcp,azure&theme=dark&perline=6" alt="Databases & Cloud" />
+</div>
 
 ### 🌐 Web Technologies
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+<div style="background: #1a1b27; padding: 20px; border-radius: 10px; box-shadow: 0 8px 16px rgba(0,0,0,0.4);">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,tailwind&theme=dark&perline=8" alt="Web Technologies" />
+</div>
 
 ### 📱 Mobile Development
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin_Android-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+<div style="background: #1a1b27; padding: 20px; border-radius: 10px; box-shadow: 0 8px 16px rgba(0,0,0,0.4);">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio&theme=dark&perline=4" alt="Mobile Development" />
+</div>
 
 ### 🔧 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+<div style="background: #1a1b27; padding: 20px; border-radius: 10px; box-shadow: 0 8px 16px rgba(0,0,0,0.4);">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,kubernetes,postman,figma,xd&theme=dark&perline=8" alt="Tools & Platforms" />
+</div>
 
 </div>
 
 ## 🏆 Achievements
 
 <div align="center">
+<div style="background: #1a1b27; padding: 25px; border-radius: 15px; box-shadow: 0 8px 25px rgba(240,219,79,0.15); max-width: 800px; margin: 0 auto;">
 
-<table>
+<table style="background: rgba(26, 27, 39, 0.6); border-radius: 10px; box-shadow: 0 4px 15px rgba(240,219,79,0.1);">
   <tr>
-    <td align="center">
-      <img width="50" src="https://img.shields.io/badge/🥇-gold?style=flat-square" alt="Gold Medal" />
-      <h3>Winner</h3>
+    <td align="center" style="padding: 20px;">
+      <img width="60" src="https://img.shields.io/badge/🥇-gold?style=for-the-badge" alt="Gold Medal" />
+      <h3 style="color: #F0DB4F;">Winner</h3>
       <p>Flash Hack 2025</p>
       <p><i>3-hour Hackathon by GDG-RCET, Bhilai</i></p>
     </td>
   </tr>
 </table>
 
+</div>
 </div>
 
 ## 📊 GitHub Stats
@@ -173,8 +206,12 @@
 
 ## 📜 Certifications & Achievements
 
+<div align="center">
+<div style="background: #1a1b27; padding: 25px; border-radius: 15px; box-shadow: 0 8px 25px rgba(240,219,79,0.15); max-width: 800px; margin: 0 auto;">
+
 ### 🐍 Python & Data Science
-[![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)](https://ude.my/UC-166ef171-5ec4-4b69-b569-d727e1a186dd)
+<div style="margin: 15px 0;">
+  [![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)](https://ude.my/UC-166ef171-5ec4-4b69-b569-d727e1a186dd)
 - Python for Data Science Pro: Complete Mastery Course
   - Certificate ID: [UC-166ef171-5ec4-4b69-b569-d727e1a186dd](https://ude.my/UC-166ef171-5ec4-4b69-b569-d727e1a186dd)
 - Python Programming Masterclass (Infosys Springboard)
