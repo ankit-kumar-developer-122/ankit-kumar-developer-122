@@ -72,6 +72,15 @@ Smart travel itinerary generator.
 
 ---
 
+# 📊 Codolio Dashboard
+<p align="center">
+<a href="https://codolio.com/dashboard/ankit-kumar-developer-122">
+<img src="https://codolio.com/api/dashboard?username=ankit-kumar-developer-122&theme=radical" alt="Codolio Dashboard"/>
+</a>
+</p>
+
+---
+
 # 🏆 Hackathons
 - 🥈 **Flash Hack 2025 — 1st Runner Up** (GDG RCET Bhilai)  
 - ⏱ **Hack-A-Sol — IIIT Naya Raipur** (24-hour National Hackathon)
