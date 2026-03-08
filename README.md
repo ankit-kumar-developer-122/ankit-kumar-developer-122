@@ -28,14 +28,11 @@ Currently pursuing **B.Tech in Computer Science at RCET Bhilai (2027)**.
 
 ---
 
-## 🧩 Developer Dashboard (Live)
-
-> GitHub caches images heavily, so “always refresh” can’t be guaranteed on every load.  
-> This embed is the best lightweight approach for a live dashboard inside README.
+## 🧩 Developer Dashboard
 
 <p align="center">
   <a href="https://codolio.com/profile/akm265">
-    <img src="https://codolio.com/api/dashboard?username=akm265&theme=radical&v=2026" alt="Codolio Developer Dashboard" />
+    <img src="https://codolio.com/api/dashboard?username=akm265&theme=radical&v=2026" alt="Codolio" />
   </a>
 </p>
 
@@ -50,35 +47,39 @@ Currently pursuing **B.Tech in Computer Science at RCET Bhilai (2027)**.
 ## 🛠 Tech Stack
 
 ### Languages
-- Python
-- Java
-- C++
-- C
-- Kotlin
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,kotlin&theme=dark" alt="Languages" />
+</p>
 
 ### Web Development
-- React.js
-- Node.js
-- HTML
-- CSS
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,html,css,js&theme=dark" alt="Web Development" />
+</p>
 
 ### Data Analytics
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Power BI
+<p align="center">
+  <img height="48" width="48" alt="Pandas" src="https://cdn.simpleicons.org/pandas/white" />
+  &nbsp;&nbsp;
+  <img height="48" width="48" alt="NumPy" src="https://cdn.simpleicons.org/numpy/white" />
+  &nbsp;&nbsp;
+  <img height="48" width="48" alt="Matplotlib" src="https://cdn.simpleicons.org/matplotlib/white" />
+  &nbsp;&nbsp;
+  <img height="48" width="48" alt="Seaborn" src="https://cdn.simpleicons.org/seaborn/white" />
+  &nbsp;&nbsp;
+  <img height="48" width="48" alt="Power BI" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" />
+</p>
 
 ### Databases
-- MySQL
-- MongoDB
-- Oracle SQL
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" alt="Databases" />
+  &nbsp;&nbsp;
+  <img height="48" width="48" alt="Oracle SQL" src="https://cdn.simpleicons.org/oracle/white" />
+</p>
 
 ### Tools
-- Git
-- Android Studio
-- Firebase
-- Figma
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,androidstudio,firebase,figma,github&theme=dark" alt="Tools" />
+</p>
 
 ---
 
@@ -116,16 +117,6 @@ Secure digital voting system using **face recognition**.
 
 ---
 
-## ⭐ Featured Projects
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ankit-kumar-developer-122&repo=AI-Powered-Rural-Healthcare-System&theme=radical&cache_seconds=86400" alt="AI-Powered-Rural-Healthcare-System"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ankit-kumar-developer-122&repo=E-Voting-System&theme=radical&cache_seconds=86400" alt="E-Voting-System"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ankit-kumar-developer-122&repo=AI-Travel-Planning-App&theme=radical&cache_seconds=86400" alt="AI-Travel-Planning-App"/>
-</p>
-
----
-
 ## 🏆 Hackathons
 
 🥈 **Flash Hack 2025 – 1st Runner Up**  
@@ -136,35 +127,10 @@ Secure digital voting system using **face recognition**.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankit-kumar-developer-122&show_icons=true&theme=radical&cache_seconds=86400" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit-kumar-developer-122&layout=compact&theme=radical&cache_seconds=86400" alt="Top Languages" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankit-kumar-developer-122&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
 ## 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankit-kumar-developer-122&theme=react-dark" alt="Contribution Graph" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ankit-kumar-developer-122/ankit-kumar-developer-122/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
 
 ---
