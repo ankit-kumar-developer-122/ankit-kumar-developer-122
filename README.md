@@ -16,6 +16,11 @@
 </div>
 
 ---
+<p align="center">
+  <a href="https://drive.google.com/file/d/1ZsfVm3KWbGJ_A1cY4TNFXlcYVosR_5Nq/view?usp=drive_link" target="_blank">
+    <img src="https://img.shields.io/badge/Download%20Resume-0d1117?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=F0DB4F" alt="Download Resume" />
+  </a>
+</p>
 
 ## 📌 About Me
 
@@ -27,11 +32,7 @@ Solved **240+ LeetCode problems** and built multiple real-world projects includi
 Currently pursuing **B.Tech in Computer Science at RCET Bhilai (2027)**.
 
 ---
-<p align="center">
-  <a href="https://drive.google.com/file/d/1ZsfVm3KWbGJ_A1cY4TNFXlcYVosR_5Nq/view?usp=drive_link" target="_blank">
-    <img src="https://img.shields.io/badge/Download%20Resume-0d1117?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=F0DB4F" alt="Download Resume" />
-  </a>
-</p>
+
 ## 🧩 Developer Dashboard
 
 <p align="center">
