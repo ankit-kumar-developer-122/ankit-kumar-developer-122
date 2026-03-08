@@ -30,7 +30,7 @@ Currently pursuing **B.Tech in Computer Science at RCET Bhilai (2027)**.
 
 ## 🧩 Developer Dashboard (Live)
 
-> GitHub caches images heavily, so “always refresh” can’t be guaranteed on every load.
+> GitHub caches images heavily, so “always refresh” can’t be guaranteed on every load.  
 > This embed is the best lightweight approach for a live dashboard inside README.
 
 <p align="center">
@@ -119,9 +119,9 @@ Secure digital voting system using **face recognition**.
 ## ⭐ Featured Projects
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ankit-kumar-developer-122&repo=AI-Powered-Rural-Healthcare-System&theme=radical" alt="AI-Powered-Rural-Healthcare-System"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ankit-kumar-developer-122&repo=E-Voting-System&theme=radical" alt="E-Voting-System"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ankit-kumar-developer-122&repo=AI-Travel-Planning-App&theme=radical" alt="AI-Travel-Planning-App"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ankit-kumar-developer-122&repo=AI-Powered-Rural-Healthcare-System&theme=radical&cache_seconds=86400" alt="AI-Powered-Rural-Healthcare-System"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ankit-kumar-developer-122&repo=E-Voting-System&theme=radical&cache_seconds=86400" alt="E-Voting-System"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ankit-kumar-developer-122&repo=AI-Travel-Planning-App&theme=radical&cache_seconds=86400" alt="AI-Travel-Planning-App"/>
 </p>
 
 ---
@@ -139,8 +139,8 @@ Secure digital voting system using **face recognition**.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankit-kumar-developer-122&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit-kumar-developer-122&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ankit-kumar-developer-122&show_icons=true&theme=radical&cache_seconds=86400" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit-kumar-developer-122&layout=compact&theme=radical&cache_seconds=86400" alt="Top Languages" />
 </p>
 
 ---
